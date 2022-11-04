@@ -21,4 +21,3 @@ Make a copy of the tetris game in the Windows Console without using third-party 
 
 ## Game demo:
 <img src="assets/gamePlay.gif" width="250" height="350" alt="gameplay"/>
-.
